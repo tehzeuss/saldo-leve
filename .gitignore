@@ -1,0 +1,9 @@
+/app/.env
+/app/.env.*
+!/app/.env.example
+/app/vendor/
+/app/node_modules/
+/app/public/build/
+/app/public/hot
+/app/storage/*.key
+/composer.phar
